@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\anton\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\anton\\Downloads\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,10 +36,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

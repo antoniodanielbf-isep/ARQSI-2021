@@ -24,7 +24,6 @@
     ".NETCoreApp,Version=v3.1": {
       "TodoApi/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.10",
           "Microsoft.EntityFrameworkCore.Design": "3.1.5",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.10",

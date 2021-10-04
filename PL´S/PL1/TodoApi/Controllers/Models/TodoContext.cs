@@ -1,4 +1,5 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using TodoApi.Controllers.Models;
 
 namespace TodoApi.Models
 {
