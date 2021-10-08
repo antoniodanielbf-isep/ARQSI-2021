@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uZW8DJMgP+PvZQehHIpyqiwPClmQvMK5pzfBh+FcmFOvQE4zwKqb+MwxFmU9sjgCXSW1Fh+u+OWUGoMsYhIIig==",
+  "dgSpecHash": "eiMga6kxOF8G+98FCmfc0Cr8UKHe73NXnTbUj/r6hze2KZQGTRoK0XG6j5WtqL9ipg9j3bnrM0blNB+TXz/8HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Documents\\ISEP-GITHUB\\ARQSI-2021\\PL´S\\PL1\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

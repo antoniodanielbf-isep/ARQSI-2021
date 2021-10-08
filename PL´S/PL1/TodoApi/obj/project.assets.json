@@ -8570,11 +8570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documents\\ISEP-GITHUB\\ARQSI-2021\\PL´S\\PL1\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\anton\\Downloads\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\anton\\OneDrive\\Documents\\ISEP-GITHUB\\ARQSI-2021\\PL´S\\PL1\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\Downloads\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\anton\\OneDrive\\Documents\\ISEP-GITHUB\\ARQSI-2021\\PL´S\\PL1\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
